@@ -1,19 +1,19 @@
 {
   "type": "theme",
-  "name": "StandardTheme",
+  "name": "AquaTheme",
   "title": {
-    "en_EN": "Standard Theme",
-    "fr_FR": "Thème Standard",
-    "de_DE": "Standard-Thema",
-    "sl_SI": "Standardna Tema",
-    "pt_BR": "Tema padrão"
+    "en_EN": "Aqua Theme",
+    "fr_FR": "Thème Aqua",
+    "de_DE": "Aqua-Thema",
+    "sl_SI": "Aqua Tema",
+    "pt_BR": "Tema Aqua"
   },
   "description": {
-    "en_EN": "Standard Theme",
-    "fr_FR": "Thème Standard",
-    "de_DE": "Standard-Thema",
-    "sl_SI": "Standardna Tema",
-    "pt_BR": "Tema padrão"
+    "en_EN": "Aqua Theme",
+    "fr_FR": "Thème Aqua",
+    "de_DE": "Aqua-Thema",
+    "sl_SI": "Aqua Tema",
+    "pt_BR": "Tema Aqua"
   },
   "files": [
     "main.js",
