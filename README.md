@@ -12,14 +12,14 @@
 
 # OS.js v3 Default Theme
 
-This is the Default Theme module for OS.js v3
+This is the Aqua Theme module for OS.js v3
 
 ![Screenshot](https://raw.githubusercontent.com/os-js/osjs-standard-theme/master/screenshot.png)
 
 ## Installation
 
 ```bash
-npm install @osjs/standard-theme
+npm install @morhajlyk/aqua-theme
 npm run package:discover
 ```
 
