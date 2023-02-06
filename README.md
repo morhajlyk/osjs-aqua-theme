@@ -10,7 +10,7 @@
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/andersevenrud)
 [![Community](https://img.shields.io/badge/join-community-green.svg)](https://community.os-js.org/)
 
-# OS.js v3 Default Theme
+# OS.js v3 Aqua Theme
 
 This is the Aqua Theme module for OS.js v3
 
